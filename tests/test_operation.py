@@ -9,6 +9,5 @@ def test_add():
 
 def test_sub():
     assert sub(5,2)==3, "substraction failed"
-    assert sub(-1,-8)==-9, "substraction failed"
-
+    assert sub(-1,-8)==7, "substraction failed"
 
